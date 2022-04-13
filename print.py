@@ -1,0 +1,1 @@
+print("SHARIAT ULLAH PATHAN")
